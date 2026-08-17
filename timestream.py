@@ -24,7 +24,6 @@ bothareas = ROOT.TH2D('bothareas', 'ch16 Area vs. ch18 Area', 100, 0, 100000, 10
 #i = 0
 # 1348, just muon triggers
 # look at how many bars are being hit and size of pulses
-# /eos/experiment/formosa/commissioning/data/offline/v38/1300/0004
 # figure out in each layer which bar has max pulse
 # then look at pulses in every other bar
 # how many bars are hit, then size of pulses
